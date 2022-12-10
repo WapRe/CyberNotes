@@ -87,14 +87,57 @@ nikto -host MACHINE_IP:port (or without port)<br>
     <li>-u , Show URLs</li>
     <li>--text , Show cleartext data</li>
     <li>--extract-all , Extract all attachments</li>
-    <li>Exemple: <i>emlAnalyzer -i /path/file --header -u --text --extract-all<i></li>
+    <li>Exemple: <i>emlAnalyzer -i /path/file --header -u --text --extract-all</i></li>
   </ul>
 </p>
 <h2>Decoding</h2>
-https://gchq.github.io/CyberChef/ best website to decode text with different decode options.
-
-
-
+<p>
+  https://gchq.github.io/CyberChef/ best website to decode text with different decode options.
+</p>
+<h2>Docker</h2>
+<p>
+  /.dockerenv : in the root directory to check if there is any in the machine
+</p>
+<h2>Metasploit</h2>
+<h3>Comands</h3>
+<p>
+  General commands:
+  <ul>
+    <li>msfconsole : starts the metasploit console</li>
+    <li>search : to look for modules</li>
+    <li>use : command to load modules</li>
+    <ul><li>Exemple: use path/to/module</li></ul>
+    <li>exploit(path/to/exploit/or/module) > info : to view information about, including options, description or CVE details...</li>
+  </ul>
+  After using a module, in the module:
+  <ul>
+    <li>show options : to view available options</li>
+    <li>set rhost MACHINE_IP : set the target host</li>
+    <li>set verbose true : logging to the target host</li>
+    <li>set lhost LISTEN_IP : Set the payload listening address; this is the IP address of the host running Metasploit</li>
+    <li>check : check the module</li>
+    <li>run : run the module</li>
+  </ul>
+  Common Metasploit console commands for viewing and manipulating sessions
+  <ul>
+    <li>sessions; view sessions</li>
+    <li>sessions -u -1: upgrade the last opened session to Meterpreter</li>
+    <li>sessions -i session_id: interact with a session</li>
+    <li>background: Background the currently interactive session, and go back to Metasploit</li>
+  </ul>
+  Meterpreter commands (advanced payload that provides interactive access to a compromised system. Meterpreter supports running commands on a remote target, including uploading/downloading files and pivoting.)
+  <ul>
+    <li>sysinfo: Get information about the remote system, such as OS</li>
+    <li>upload local_file.txt: Upload a file or directory</li>
+    <li>ipconfig: Display interfaces</li>
+    <li>resolve remote_service1 remote_service2 : Resolve a set of host names on the target to IP address (PIVOTING)</li>
+    <li>route : can be used to modify the internal routing table in order to PIVOT, determines where to send traffic</li>
+  <ul><li>Exemple: route [add/remove] subnet netmask [comm/sid]</li></ul>
+  <ul><li>route add 172.17.0.1/32 -1: Configure the routing table to send packets destined for 172.17.0.1 to the latest opened session</li></ul>
+  <ul><li>route add 172.28.10.48/29 -1: Configure the routing table to send packets destined for 172.28.101.48/29 subnet to the latest opened session</li></ul>
+  <ul><li>route print : Output the routing table</li></ul>
+  </ul>
+</p>
 
 
 
