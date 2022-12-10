@@ -25,7 +25,8 @@
   https://urlscan.io/ A service that analyses websites by simulating regular user behaviour.<br>
   https://www.browserling.com/ A browser sandbox is used to test suspicious/malicious links. <br>
   https://www.wannabrowser.net/ A browser sandbox is used to test suspicious/malicious links.<br>
-  https://any.run/ Sandbox to run any phishing link
+  https://any.run/ Sandbox to run any phishing link<br>
+  https://metadefender.opswat.com/ upload files, urls, IP addr, domain, hash or CVE to get info
 </p>
 <h2>Log Analysis</h2>
 Where to find?
