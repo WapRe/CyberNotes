@@ -181,8 +181,9 @@ nikto -host MACHINE_IP:port (or without port)<br>
 </ul>
 <b><i>All windows pluggin List: https://volatility3.readthedocs.io/en/stable/volatility3.plugins.windows.html</i></b><br>
 </p>
-
-
+<h2>Smart Contracts</h2>
+<h3>Remix</h3>
+https://remix.ethereum.org/ : Tool to compile files. Safe and controlled test environment for smart contracts as if they were in the public blockchain.
 
 
 
