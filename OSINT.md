@@ -25,5 +25,6 @@
   https://www.browserling.com/ A browser sandbox is used to test suspicious/malicious links. <br>
   https://www.wannabrowser.net/ A browser sandbox is used to test suspicious/malicious links.<br>
   https://any.run/ Sandbox to run any phishing link, gather info about ASN, IP, Domains, and other. Gather info about all connections related.<br>
-  https://metadefender.opswat.com/ upload files, urls, IP addr, domain, hash or CVE to get info
+  https://metadefender.opswat.com/ upload files, urls, IP addr, domain, hash or CVE to get info<br>
+  https://gchq.github.io/CyberChef/ best website to decode text with different decode options.<br>
 </p>
