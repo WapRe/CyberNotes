@@ -96,3 +96,16 @@
     </tr>
   </table>
 </p>
+<h2>Email analysis</h2>
+<h3>emlAnalyzer</h3>
+<p>
+  Terminal tool to check emails<br>
+  <ul> Options
+    <li>-i /path-to-file/filename , file to analyse</li>
+    <li>--header , show header</li>
+    <li>-u , Show URLs</li>
+    <li>--text , Show cleartext data</li>
+    <li>--extract-all , Extract all attachments</li>
+    <li>Exemple: <i>emlAnalyzer -i /path/file --header -u --text --extract-all</i></li>
+  </ul>
+</p>
