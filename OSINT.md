@@ -31,4 +31,5 @@
 <p>
   https://gchq.github.io/CyberChef/ best website to decode text with different decode options.<br>
   https://remix.ethereum.org/ : Tool to compile files. Safe and controlled test environment for smart contracts as if they were in the public blockchain.<br>
+  https://www.rapidtables.com/convert/number/hex-to-decimal.html : Convertor decimal/hex<br>
 </p>
