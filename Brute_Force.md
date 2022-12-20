@@ -15,7 +15,7 @@
     <li><b>-l username:</b> -l should precede the username, you should omit this option if the service does not use a username.</li>
     <li><b>-P wordlist.txt:</b> file or path to the list of passwords you want to try with the provided username. (Rockyou.txt)</li>
     <li><b>server</b> is the hostname or IP address of the target server.</li>
-    <li><b>service</b> indicates the service in which you are trying to launch the dictionary attack. Such as <b>rdp, vnc, ftp, pop3 or any other protocol</b> supported by Hydra.</li>
+    <li><b>service</b> indicates the service in which you are trying to launch the dictionary attack. Such as <b>rdp, vnc, ftp, pop3 or any other protocol</b> supported by Hydra. Check list of compatible protocols</li>
     <li>Exemple: hydra -l mark -P /usr/share/wordlists/rockyou.txt MACHINE_IP ssh   or   hydra -l mark -P /usr/share/wordlists/rockyou.txt ssh://MACHINE_IP</li>
   </ul>
   Options you can use:
