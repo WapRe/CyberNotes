@@ -32,4 +32,7 @@
   https://gchq.github.io/CyberChef/ best website to decode text with different decode options.<br>
   https://remix.ethereum.org/ : Tool to compile files. Safe and controlled test environment for smart contracts as if they were in the public blockchain.<br>
   https://www.rapidtables.com/convert/number/hex-to-decimal.html : Convertor decimal/hex<br>
+  https://tdm.socprime.com/login : security professionals share their detection rules for different kinds of threats including the latest CVE's that are being exploited in the wild by adversaries.<br>
+  https://bazaar.abuse.ch/ : project to collect and share malware samples.<br>
+  https://www.mandiant.com/resources/insights/apt-groups : info about differents apt groups.<br>
 </p>
