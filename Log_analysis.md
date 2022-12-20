@@ -12,5 +12,12 @@ Where to find?
   -i : insensitive search<br>
   -E : regular expressions (regex) <br>
   -r : recursive, you can use a directory <br>
-  grep ".*\.zip$" : to look for a file, in this case, zip
+  grep ".*\.zip$" : to look for a file, in this case, zip<br>
+  grep -e [a-z] : to match any lowercase letter in the English alphabet, the "-" is for a range,  can pñay with this:<br>
+  <ul>
+    <li>[aeiou] for only vowels, the order doesn't matter</li>
+    <li>[a-zA-Z] matchs any character</li>
+    <li>[a-z0-9] maths any lowercase alphanumeric character</li>
+  </ul>
 </p>
+<h3>Regex</h3>
