@@ -15,7 +15,8 @@
   https://who.is/ : domain information such as registrant, administrative, billing and technical contacts in a centralised database <br>
   https://haveibeenpwned.com/ : Check public data breaches for <b>emails or phones</b> <br>
   https://github.com/ : code repository <br>
-  https://www.shodan.io/ : Search engine related to TheHarvester info, domains, ips, and others. <br>
+  https://www.shodan.io/ : Search engine related to TheHarvester info, domains, ips, and others. Indexes all the internet and post the services related, very useful for IoT.<br>
+<ul><li>ASN:[number] : filter for ASN<br></li></ul>
   https://emailrep.io/ to check reputation of the sender <br>
   https://www.virustotal.com/gui/home/upload  A service that provides a cloud-based detection toolset and sandbox environment.<br>
   https://labs.inquest.net/ A service provides network and file analysis by using threat analytics. <br>
