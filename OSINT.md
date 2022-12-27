@@ -16,7 +16,19 @@
   https://haveibeenpwned.com/ : Check public data breaches for <b>emails or phones</b> <br>
   https://github.com/ : code repository <br>
   https://www.shodan.io/ : Search engine related to TheHarvester info, domains, ips, and others. Indexes all the internet and post the services related, very useful for IoT.<br>
-<ul><li>ASN:[number] : filter for ASN<br></li></ul>
+<ul>
+  <li>ASN:[number] : filter for ASN<br></li>
+  <li>product:[MySQL] : filter with products</li>
+  <li>vuln:ms17-010 : search for vulnerabilities (only academic or enterprise mode) </li>
+  <li>vuln:CVE-2014-0160 : we can use different CVE too</li>
+  <li>City Country Geo : we can look for cities or countries</li>
+  <li>Hostname net : based on IP / CIDR</li>
+  <li>os [system] : fins by Operating System</li>
+  <li>port before/after : we can add timeframes too</li>
+  <li>has_screenshot:true encrypted attention -> we can see different Ips with a ransomware login page</li>
+  <li>screenshot.label:ics : ICS/SCADA pages or some webcams.</li>
+  <li>https://github.com/jakejarvis/awesome-shodan-queries  :  There are more on github</li>
+</ul>
   https://emailrep.io/ to check reputation of the sender <br>
   https://www.virustotal.com/gui/home/upload  A service that provides a cloud-based detection toolset and sandbox environment.<br>
   https://labs.inquest.net/ A service provides network and file analysis by using threat analytics. <br>
