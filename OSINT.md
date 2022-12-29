@@ -10,7 +10,7 @@
   https://labs.inquest.net/ A service provides network and file analysis by using threat analytics. <br>
   https://ipinfo.io/ A service that provides detailed information about an IP address by focusing on geolocation data and service provider.<br>
   https://www.talosintelligence.com/ An IP reputation check service is provided by Cisco Talos. <br>
-  https://urlscan.io/ A service that analyses websites by simulating regular user behaviour.<br>
+  https://urlscan.io/ A service that analyses websites by simulating regular user behaviour. Automate the process of browsing and crawling through websites to record activities and interactions. The information recorded includes the domains and IP addresses contacted, resources requested from the domains, a snapshot of the web page, technologies utilised and other metadata about the website.<br>
   https://www.browserling.com/ A browser sandbox is used to test suspicious/malicious links. <br>
   https://www.wannabrowser.net/ A browser sandbox is used to test suspicious/malicious links.<br>
   https://any.run/ Sandbox to run any phishing link, gather info about ASN, IP, Domains, and other. Gather info about all connections related.<br>
