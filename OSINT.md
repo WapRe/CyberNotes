@@ -22,7 +22,18 @@
   https://remix.ethereum.org/ : Tool to compile files. Safe and controlled test environment for smart contracts as if they were in the public blockchain.<br>
   https://www.rapidtables.com/convert/number/hex-to-decimal.html : Convertor decimal/hex<br>
   https://tdm.socprime.com/login : security professionals share their detection rules for different kinds of threats including the latest CVE's that are being exploited in the wild by adversaries.<br>
-  https://bazaar.abuse.ch/ : project to collect and share malware samples.<br>
+  https://abuse.ch/ : Developed to identify and track malware and botnets through several operational platforms developed under the project.<br>
+<ul>
+  <li>https://bazaar.abuse.ch/ : project to collect and share malware samples.</li>
+  <li>Other projects: https://abuse.ch/#platforms
+    <ul>
+      <li>Malware Bazaar:  A resource for sharing malware samples.</li>   
+      <li>Feodo Tracker:  A resource used to track botnet command and control (C2) infrastructure linked with Emotet, Dridex and TrickBot.</li>
+      <li>SSL Blacklist:  A resource for collecting and providing a blocklist for malicious SSL certificates and JA3/JA3s fingerprints.</li>
+      <li>URL Haus:  A resource for sharing malware distribution sites.</li>
+      <li>Threat Fox:  A resource for sharing indicators of compromise (IOCs).</li>
+    </ul>
+</ul>
   https://www.mandiant.com/resources/insights/apt-groups : info about differents apt groups.<br>
 </p>
 <h3>Google Dorks</h3>
