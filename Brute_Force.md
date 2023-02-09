@@ -23,6 +23,8 @@
   <li>-V or -vV, for verbose, makes Hydra show the username and password combinations being tried.</li>
   <li>-d, for debugging, provides more detailed information about what’s happening. The debugging output can save you much frustration; for instance, if Hydra tries to connect to a closed port and timing out, -d will reveal this immediately.</li>
   </ul>
+  <h3>Cheatsheat</h3>
+  https://github.com/frizb/Hydra-Cheatsheet<br>
 </p>
 <h2>Hydra Room</h2>
 <p>
