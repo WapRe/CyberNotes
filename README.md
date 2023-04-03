@@ -3,6 +3,8 @@ Quick notes that I'll be taking as I progress in the field of cybersecurity and 
 
 I'm separating them by themes as I consider necessary.
 
-A lot of the knowledge is used from Advent Of Cyber 4 by Try Hack Me and then completed with information from other rooms.
+A lot of the knowledge is from the Try Hack Me platform, and then completed with information from other rooms.
 
-Everything in this repository is acquired from the THM website, my own research, and my own knowledge.
+Everything in this repository is acquired from my own research and knowledge.
+
+Feel free to interact. 
