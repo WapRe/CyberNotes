@@ -16,3 +16,4 @@ nikto -host MACHINE_IP:port (or without port)<br>
 Basic IP address check:<br>
 <b>ip a s eth0</b><br>
 With this command it shows directly the IP of the device.<br>
+We can change eth0 by wlan0 or others.<br>
