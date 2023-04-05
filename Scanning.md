@@ -1,4 +1,5 @@
 <h2>Scanning Tools</h2>
+<i>Remember in kali: /usr/share/wordlist</i>
 <h3>Nmap</h3>
 <p>
   nmap -sS MACHINE_IP : TCP SYN Scan; Get the list without completing the TCP three-way handshake and making the scan a little stealthier<br>
