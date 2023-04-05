@@ -17,3 +17,4 @@ Basic IP address check:<br>
 <b>ip a s eth0</b><br>
 With this command it shows directly the IP of the device.<br>
 We can change eth0 by wlan0 or others.<br>
+<b>ip a s ens33</b> in case you are in a Ubuntu system.<br>
