@@ -11,3 +11,8 @@
 Nikto is open-source software that allows scanning websites for vulnerabilities. It enables looking for subdomains, outdated servers, debug messages etc., on a website<br>
 Can be used in terminal:<br>
 nikto -host MACHINE_IP:port (or without port)<br>
+<br>
+<h2>Networking</h2>
+Basic IP address check:<br>
+<b>ip a s eth0</b><br>
+With this command it shows directly the IP of the device.<br>
