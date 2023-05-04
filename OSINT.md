@@ -73,3 +73,11 @@
     <li>https://www.groupsense.io/resources/how-to-use-the-intelligence-cycle-to-secure-your-brand</li>
   </ul>
 </p>
+
+<h3>Check your browser fingerprinting</h3>
+<p>
+  <ul>
+    <li>https://coveryourtracks.eff.org</li>
+    <li>https://browserleaks.com</li>
+  </ul>
+</p>
