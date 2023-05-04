@@ -1,4 +1,5 @@
 <h2>OSINT</h2>
+https://osintframework.com <br>
 <h3>Sites</h3>
 <p>
   https://who.is/ : domain information such as registrant, administrative, billing and technical contacts in a centralised database <br>
@@ -37,14 +38,34 @@
 </ul>
   https://www.mandiant.com/resources/insights/apt-groups : info about differents apt groups.<br>
 </p>
+<h3>Tools</h3>
+<p>
+<ul><b>The Harvester</b>: Gather information about the target domain and retrieves information such as hostnames, IP addresses, employees (and their positions), email addresses, and much more<br>
+  <li>theharvester -d google.com -l 100 -b google -> (tool) (target domain = google.com) (list 100 results max) (source = google) We get the IPs</li>
+  <li>theharvester -d google.com -l 100 -b linkedin -> (tool) (target domain = google.com) (list 100 results max) (source = linkedin) We get employees</li>
+</ul>
+<ul><b>Maltego:</b>high-level data mining and information gathering tool, capable of obtaining real-time data on different types of entities (companies, people, websites, etc.)<br>
+  <li>https://www.maltego.com/categories/tutorial/ documentation</li>
+</ul>
+<ul><b>Tweetdeck:</b> Monitor trends, follow hashtags, and perform live searches. Events in real-time, such as cyber-attacks, vulnerabilities being released, or even tracking malicious actors' activity<br>
+  <li><b>“bluekeep” OR #bluekeep OR cve-2019-0708 </b>-> CVE-2019-0708, dubbed ‘BlueKeep’ was a Zero-Day vulnerability in Remote Desktop Protocol (RDP)</li>
+  <li><b>#firefox OR #chrome OR #internetexplorer OR #IE</b> -> Following vulnerabilities in Firefox, Chrome, and Internet Explorer.</li>
+  <li><b>#vulnerability OR #vulnerabilities OR #CVE</b> -> search term for vulnerabilities (does bring back a lot of non-security tweets due to common language).</li>
+  <li><b>“Windows 10” and “vulnerability”</b> -> Monitoring for Windows 10 vulnerabilities.</li>
+  <li><b>#0day OR #zeroday”</b> -> Monitoring for zero-day vulnerabilities that are publicly announced on Twitter.</li>
+</ul>
+
+</p>
 <h3>Google Dorks</h3>
 <p>
   <ul>
-    <li>inurl: Searches for a specified text in all indexed URLs. For example, <b>inurl:hacking</b> </li>
+    <li>inurl: Searches for a specified text in all indexed URLs. For example, <b>inurl:hacking</b> or <b>inurl:admin</b> </li>
     <li>filetype: Searches for specified file extensions. For example, <b>filetype:pdf "hacking"</b>  </li>
     <li>site: Searches all the indexed URLs for the specified domain. For example, <b>site:tryhackme.com</b> </li>
+    <ul><li>site:Facebook.com -site:www.Facebook.com -> (Look for sites that include .Facebook.com) (but NOT www.Facebook.com) Enumeration of domains, subdomains</li></ul>
     <li>cache: Get the latest cached version by the Google search engine. For example, <b>cache:tryhackme.com.</b></li>
     <li>intitle: The specified phrase MUST appear in the title of the page</li>
+    <li>https://securitytrails.com/blog/google-hacking-techniques -> list of queries</li>
   </ul>
   Robots.txt: public file that allows or disallows crawlers, indexers.
 </p>
