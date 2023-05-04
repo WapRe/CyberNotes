@@ -64,3 +64,12 @@
   <li>https://github.com/jakejarvis/awesome-shodan-queries  :  There are more on github</li>
 </ul>
 </p>
+<h3>Intelligence cycle</h3>
+<p>
+  <ul>
+    <li>https://www.intelligencecareers.gov/icintelligence.html</li>
+    <li>https://www.sciencedirect.com/topics/computer-science/intelligence-cycle</li>
+    <li>https://www.e-education.psu.edu/sgam/node/15</li>
+    <li>https://www.groupsense.io/resources/how-to-use-the-intelligence-cycle-to-secure-your-brand</li>
+  </ul>
+</p>
