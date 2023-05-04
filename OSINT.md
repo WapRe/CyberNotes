@@ -71,6 +71,8 @@
     <li>https://www.sciencedirect.com/topics/computer-science/intelligence-cycle</li>
     <li>https://www.e-education.psu.edu/sgam/node/15</li>
     <li>https://www.groupsense.io/resources/how-to-use-the-intelligence-cycle-to-secure-your-brand</li>
+    <li>TL OSINT VM: https://www.tracelabs.org/initiatives/osint-vm</li>
+    <li>DIY OSINT VM Guide: https://nixintel.info/tag/diy-buscador/</li>
   </ul>
 </p>
 
