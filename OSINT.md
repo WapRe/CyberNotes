@@ -88,5 +88,12 @@
       <li>Ublock Origin: “Filters requests to display adverts and prevents your browser from retrieving and displaying marketing content.”</li>
       <li>Cookie AutoDelete: “Automatically delete unwanted cookies from your closed tabs while keeping the ones you want.”</li>
     </ul>
+    <ul><b>SOCK PUPPETS</b>
+      <li>“Welcome to the (Sock) Jungle”: https://youtu.be/v8EP6xOcB8M</li>
+      <li>“The Art of The Sock”: https://www.secjuice.com/the-art-of-the-sock-osint-humint/</li>
+      <li>“Creating an Effective Sock Puppet for OSINT Investigations”: https://web.archive.org/web/20210125191016/https://jakecreps.com/2018/11/02/sock-puppets/</li>
+      <li>“Sock puppet Account Creation – My Process”: https://garrettmickley.com/sockpuppet-account-creation/</li>
+      <li>“The World’s Best Sock Puppet…Not!”: https://keyfindings.blog/2019/01/21/the-worlds-best-sock-puppet-not/</li>
+    </ul>
   </ul>
 </p>
