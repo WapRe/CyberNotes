@@ -76,10 +76,17 @@
   </ul>
 </p>
 
-<h3>Check your browser fingerprinting</h3>
+<h3>ANTI - OSINT</h3>
 <p>
   <ul>
     <li>https://coveryourtracks.eff.org</li>
     <li>https://browserleaks.com</li>
+    <ul> <b>Extensions for browser</b>
+      <li>User-Agent Switcher and Manager: “spoof your browser “user-agent” string to a custom designation.”</li>
+      <li>No Script: “Allows JavaScript, Java, Flash, and other plugins to be executed only by trusted web sites of your choice”</li>
+      <li>Privacy Badger: “Stops advertisers and other third-party trackers from secretly tracking where you go and what pages you look at on the web”</li>
+      <li>Ublock Origin: “Filters requests to display adverts and prevents your browser from retrieving and displaying marketing content.”</li>
+      <li>Cookie AutoDelete: “Automatically delete unwanted cookies from your closed tabs while keeping the ones you want.”</li>
+    </ul>
   </ul>
 </p>
