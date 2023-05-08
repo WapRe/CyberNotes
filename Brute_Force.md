@@ -33,3 +33,17 @@
   Flag 2:<br>
   hydra -l molly -P Documentos/rockyou_20_12_2022.txt 10.10.38.247 ssh -V<br>
 </p>
+<h2>ZIP files</h2>
+<p>
+fcrackzip , is a tool to brute force zip files.<br>
+syntax: fcrackzip -b file.zip -u -c a1 -l 'length'
+<ul>
+  <li>fcrackzip – Selecting the tool we want to use.</li>
+  <li>-b – Selecting the option for a brute-force attack.</li>
+  <li>file.zip is the target</li>
+  <li>-u – This makes sure fcrackzip actually tries to unzip the file, without this we won’t actually get the right password.</li>
+  <li>-c – This is where we pick the characters we want to use in our dictionary attack. In this example we’re using ‘a’ which represents lowercase letters, and ‘1’ which represents numbers 0-9.</li>
+  <li>-l – This is where we state the length of the password we want to crack. If we know the password is between 4 and 6 characters, we would use "-l 4-6".</li>
+</ul>
+cheat sheat fcrackzip: https://manpages.ubuntu.com/manpages/trusty/man1/fcrackzip.1.html<br>
+</p>
