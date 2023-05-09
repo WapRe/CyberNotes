@@ -7,6 +7,8 @@
   nmap -O MACHINE_IP : OS Scan; type of OS running <br>
   nmap -sV MACHINE_IP : Service Scan; Detecting Services. <br>
   nmap -T4 -A -Pn MACHINE_IP : T4 is the speed of the scan, -Pn to treat all host online only<br>
+  map -sU -sV -O -T4 MACHINE_IP : Basic UDP (-sU) scan with services and OS at speed 4<br>
+  
 </p>
 <h3>Nikto</h3>
 Nikto is open-source software that allows scanning websites for vulnerabilities. It enables looking for subdomains, outdated servers, debug messages etc., on a website<br>
