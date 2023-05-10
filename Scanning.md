@@ -21,3 +21,11 @@ Basic IP address check:<br>
 With this command it shows directly the IP of the device.<br>
 We can change eth0 by wlan0 or others.<br>
 <b>ip a s ens33</b> in case you are in a Ubuntu system.<br>
+<h3>WPscan</h3>
+<p>
+For Wordpress sites.Great enumaration tool.<br>
+    wpscan –url <site.com> –enumerate vp<br>
+    wpscan –url <site.com> –enumerate vt<br>
+    wpscan –url <site.com> –enumerate u<br>
+                     
+</p>
