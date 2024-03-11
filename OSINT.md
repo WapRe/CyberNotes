@@ -100,6 +100,15 @@ https://osintframework.com <br>
   </ul>
 </p>
 
+<h3>Email tools</h3>
+<p>
+  <ul>
+    <li> https://toolbox.googleapps.com/apps/messageheader/analyzeheader -> Header analyzer</li>
+    <li>https://mha.azurewebsites.net/ -> Header analyzer </li>
+    <li>https://mailheader.org/ -> Header analyzer</li>
+  </ul>
+</p>
+
 <h3>ANTI - OSINT</h3>
 <p>
   <ul>
