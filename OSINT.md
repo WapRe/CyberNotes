@@ -15,6 +15,8 @@ https://osintframework.com <br>
   https://www.browserling.com/ A browser sandbox is used to test suspicious/malicious links. <br>
   https://www.wannabrowser.net/ A browser sandbox is used to test suspicious/malicious links.<br>
   https://any.run/ Sandbox to run any phishing link, gather info about ASN, IP, Domains, and other. Gather info about all connections related.<br>
+  https://www.hybrid-analysis.com/ Another sandbox to run malware
+  https://www.joesecurity.org/ Another sandbox to run malware
   https://metadefender.opswat.com/ upload files, urls, IP addr, domain, hash or CVE to get info<br>
   https://www.phishtool.com/ : tool against phishing emails, reverse engineering<br>
   https://tineye.com/ : receive alerts when their images are identified on the internet, or check our images on the internet (identify phishings, fake social media, check if its a common image, brand reputation monitoring...) <br>
