@@ -23,6 +23,7 @@ https://osintframework.com <br>
   https://images.google.com : similar to tineye, but from google<br>
   https://www.dehashed.com/ : user, pw, payable option refered to data leaks <br>
   https://intelx.io/ : user, pw, email, ip, btc addres... <br>
+  https://spycloud.com/ : premium tool to check stolen credentials and users. <br>
   https://www.convertcsv.com/url-extractor.html url extractor for data, emails, etc... 
 </p>
 <h3>Other Interesting sites</h3>
