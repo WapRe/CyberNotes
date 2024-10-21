@@ -34,6 +34,7 @@ https://osintframework.com <br>
   https://www.rapidtables.com/convert/number/hex-to-decimal.html : Convertor decimal/hex<br>
   https://tdm.socprime.com/login : security professionals share their detection rules for different kinds of threats including the latest CVE's that are being exploited in the wild by adversaries.<br>
   https://abuse.ch/ : Developed to identify and track malware and botnets through several operational platforms developed under the project.<br>
+  https://www.nomoreransom.org/es/index.html : Check out if there is a key to decrypt the files affected by a ransomware
 <ul>
   <li>https://bazaar.abuse.ch/ : project to collect and share malware samples.</li>
   <li>Other projects: https://abuse.ch/#platforms
