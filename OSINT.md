@@ -62,7 +62,8 @@ https://osintframework.com <br>
   <li><b>#vulnerability OR #vulnerabilities OR #CVE</b> -> search term for vulnerabilities (does bring back a lot of non-security tweets due to common language).</li>
   <li><b>“Windows 10” and “vulnerability”</b> -> Monitoring for Windows 10 vulnerabilities.</li>
   <li><b>#0day OR #zeroday”</b> -> Monitoring for zero-day vulnerabilities that are publicly announced on Twitter.</li>
-</ul>
+</ul><br>
+https://github.com/lanmaster53/recon-ng : open source reconnaissance tool
 
 </p>
 <h3>Google Dorks</h3>
