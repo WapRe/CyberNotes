@@ -24,7 +24,8 @@ https://osintframework.com <br>
   https://www.dehashed.com/ : user, pw, payable option refered to data leaks <br>
   https://intelx.io/ : user, pw, email, ip, btc addres... <br>
   https://spycloud.com/ : premium tool to check stolen credentials and users. <br>
-  https://www.convertcsv.com/url-extractor.html url extractor for data, emails, etc... 
+  https://www.convertcsv.com/url-extractor.html url extractor for data, emails, etc... <br>
+  https://ahmia.fi/ : tor indexer, the google for tor
 </p>
 <h3>Other Interesting sites</h3>
 <p>
